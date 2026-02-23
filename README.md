@@ -86,7 +86,7 @@ src/
 - **Java Sound API** - Audio-Integration
 - **Enumerations** - Typsichere Konstanten
 
-## 🎯 Spielablauf
+## Spielablauf
 
 1. **Hauptmenü** → Schwierigkeitsgrad wählen
 2. **Spielbildschirm:**
