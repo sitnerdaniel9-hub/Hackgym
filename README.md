@@ -38,7 +38,33 @@ HackGym ist ein edukativer Arcade-Trainer, der verschiedene kognitive Fähigkeit
 | **Satz umkehren** | Rückwärts geschriebenen Text rekonstruieren | Textverarbeitung |
 | **Rhythmus-Memory** | Visuelle Sequenz merken und reproduzieren | Kurzzeitgedächtnis |
 
-## Technische Architektur
+
+##  Software-Engineering & Planung
+
+### UML-Klassendiagramm
+
+Die vollständige Systemarchitektur wurde vorab in UML modelliert (Diagramm zeigt Zwischenstand während der Entwicklung):
+
+![UML-Klassendiagramm](docs/UML.jpg)
+
+**Architektur-Highlights aus dem Diagramm:**
+- Klare MVC-Separation (GUI-Package vs. Logic-Package)
+- 8 spezialisierte Task-Sections mit gemeinsamer Basis-Klasse
+- Dedizierte Controller für Game, Music, Score, Timer
+- Factory-Pattern für prozedurale Generierung (ArrayGenerator, ExpressionGenerator)
+- Task-Management-System mit TaskManager
+
+### Use-Case-Diagramm
+
+![Use-Case-Diagramm](docs/UseCases.png)
+
+**Hauptfunktionen:**
+- Schwierigkeitsgrad wählen
+- Spiel starten
+- Aufgaben lösen/überspringen
+- Zwischen Spielesammlung und Hauptmenü navigieren
+
+*Hinweis: Das geplante Tutorial-Feature wurde aus Zeitgründen nicht implementiert, da die Aufgaben durch die Rekruter-Dialoge bereits ausreichend erklärt werden.*
 
 ### MVC-Pattern
 ```
