@@ -1,0 +1,29 @@
+Aufgabentypen:
+
+Leicht:
+
+    Leichte Additionsaufgaben
+1. Lückentexte
+    Malen nach Zahlen(einfach ohne Rechnungen)
+2. Zahlen in die Richtige Reihenfolge bringen
+    Genannte Farbe anklicken.
+
+Mittel:
+
+    Multiplikations, Divisions und Klammeraufgaben (Durch Hackerangriffe eventuell auch die Aufgabe zu gegeben Ergebnis hinschreiben.)
+3. Verdrehte wieder in die Richtige Reihenfolge bringen. (Zum Beispiel: ollaH zu Hallo)
+    Malen nach Zahlen (mit Rechenausdrücken statt Zahlen)
+    Genannte Farbe anklicken aber die Buttons können anders gefärbt sein.
+4. Fehler in Mustern finden. (Zum Beispiel: aaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaa)
+5. Leichte Zahlenfolgen vervollständigen.
+
+
+Schwer:
+
+Man wird ständig von Hackerangriffen bombardiert:
+    Schwere Mathematische Ausdrücke ausrechnen.
+    Gleichungen Lösen.
+6. Buttons die in einem Rhythmus aufleuchten im selben Rhythmus anschließend anklicken.
+    Genannte Farbe anklicken aber die Buttons können anders gefärbt sein oder die Farben können doppelt vorkommen.
+5. Schwere Zahlenfolgen ergänzen.
+    Teilweise werden Lösungen aus letzten Aufgaben für die nächsten benötigt.
